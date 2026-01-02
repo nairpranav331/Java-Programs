@@ -12,7 +12,6 @@ class Arrays{
 		
 	}
 	return max;
-	
 }
 }
 
@@ -32,3 +31,4 @@ public class ArrPro {
 	}
 
 }
+
